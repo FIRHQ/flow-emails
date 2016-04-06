@@ -1,0 +1,31 @@
+{
+  "name": "flow-emails",
+  "version": "1.0.0",
+  "description": "flow.ci email templates, and it send by flow.ci automatic!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FIRHQ/flow-emails.git"
+  },
+  "keywords": [
+    "flow.ci",
+    "email"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FIRHQ/flow-emails/issues"
+  },
+  "homepage": "https://github.com/FIRHQ/flow-emails#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-inline-css": "^3.1.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "nconf": "^0.8.4"
+  }
+}
